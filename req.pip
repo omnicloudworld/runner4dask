@@ -1,0 +1,11 @@
+gcsfs
+cryptography
+aiohttp
+requests
+dask[compleate]
+dask-cloudprovider[all]
+bokeh 
+google-cloud-storage
+google-cloud-firestore 
+numpy
+pandas
